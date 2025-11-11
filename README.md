@@ -4,7 +4,7 @@ A comprehensive audio steganography implementation using Least Significant Bit (
 
 ## Repository
 
-**GitHub**: https://github.com/hoangduy0308/audio_steganography_detect
+**GitHub**: https://github.com/hoangduy0308/audio-steganography-detect
 
 ## Overview
 
@@ -67,8 +67,8 @@ jupyter
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/hoangduy0308/audio_steganography_detect.git
-cd audio_steganography_detect
+git clone https://github.com/hoangduy0308/audio-steganography-detect.git
+cd audio-steganography-detect
 ```
 
 2. Create a virtual environment:
