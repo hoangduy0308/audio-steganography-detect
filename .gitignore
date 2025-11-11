@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset files (comment out if you want to track them)
+data/
+UrbanSound8K.csv
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+
+# Model files (can be large)
+models/
+*.pkl
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.joblib
+
+# Audio processing artifacts
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.out
+*.err
+*.cache
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+*.bz2
+
+# Project-specific
+ketqua.md
+loi.md
+tuning_history.md
+fix_code.txt
+diff_check/
+Baocao_Slide/
+baocao/
+
+# Keep important project files
+!README.md
+!.gitignore
+!requirements.txt
