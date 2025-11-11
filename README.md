@@ -2,6 +2,10 @@
 
 A comprehensive audio steganography implementation using Least Significant Bit (LSB) technique and Convolutional Neural Networks for detection and analysis.
 
+## Repository
+
+**GitHub**: https://github.com/hoangduy0308/audio_steganography_detect
+
 ## Overview
 
 This project implements audio steganography techniques for hiding and detecting hidden messages in audio files. The implementation includes:
@@ -63,8 +67,8 @@ jupyter
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd audio-steganography
+git clone https://github.com/hoangduy0308/audio_steganography_detect.git
+cd audio_steganography_detect
 ```
 
 2. Create a virtual environment:
